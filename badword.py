@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 # Deine Discord-Bot-Token hier einfügen
-TOKEN = 'OTYzMjA5MDIxODUzMTcxNzYy.G3l4dw.mt-rC0O0h-roBE9Eq-6YusGey9Hyk1EINw96n8'
+TOKEN = 'Your Bot Token'
 
 # Liste der Beleidigungen
 BAD_WORDS = ["Nigger", "Nigga", "Schlampe", "Crazy?", "Nutte", "Fotze", "Hurensohn", "nigger", "nigga", 
