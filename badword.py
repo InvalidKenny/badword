@@ -8,7 +8,7 @@ TOKEN = 'Your Bot Token'
 BAD_WORDS = ["crazy", "Crazy?", "crazy?"]
 
 # Liste der whitelisted Personen (nach Discord-Benutzer-ID)
-WHITELISTED_USERS = [693227494815563826]
+WHITELISTED_USERS = ["................."]
 
 intents = discord.Intents.default()
 intents.message_content = True  # Aktiviert das Empfangen von Nachrichteninhalten
