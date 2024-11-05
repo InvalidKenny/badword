@@ -5,8 +5,7 @@ from discord.ext import commands
 TOKEN = 'Your Bot Token'
 
 # Liste der Beleidigungen
-BAD_WORDS = ["Nigger", "Nigga", "Schlampe", "Crazy?", "Nutte", "Fotze", "Hurensohn", "nigger", "nigga", 
-             "Schuchtel", "Bastard", "Nutt3", "crazy", "Crazy?", "crazy?"]
+BAD_WORDS = ["crazy", "Crazy?", "crazy?"]
 
 # Liste der whitelisted Personen (nach Discord-Benutzer-ID)
 WHITELISTED_USERS = [693227494815563826]
